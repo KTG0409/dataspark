@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "dataspark-ai"
-version = "0.1.0"
+version = "0.1.1"
 description = "AI-powered data science co-pilot using Claude — explore data, design projects, generate code, and brainstorm from anywhere Python runs."
 readme = "README.md"
 license = "MIT"

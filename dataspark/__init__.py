@@ -27,7 +27,7 @@ Usage:
     spark.chat()
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 from dataspark.explorer import DataExplorer
 from dataspark.profiles import DataProfile

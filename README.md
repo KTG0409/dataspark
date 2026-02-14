@@ -15,7 +15,7 @@ pip install dataspark-ai              # from PyPI
 # or
 pip install dataspark-ai[full]        # includes sklearn, matplotlib, seaborn, plotly, scipy
 # or from source
-git clone https://github.com/yourusername/dataspark.git
+git clone https://github.com/KTG0409/dataspark.git
 cd dataspark && pip install -e ".[dev]"
 ```
 
